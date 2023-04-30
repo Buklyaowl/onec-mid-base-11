@@ -10,7 +10,7 @@
   <name>Neto_Должность</name>
   <synonym>
     <key>ru</key>
-    <value>Neto должность</value>
+    <value>Должность</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Neto_Должность.StandardAttribute.Code</inputByString>
