@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7cdc71b9-4e39-4f33-8e3b-c70292fa06ce">
+  <producedTypes>
+    <objectType typeId="c1e1e0e5-539b-4b94-885b-d9f3101a5e15" valueTypeId="0de162bd-0eb3-4cbe-a558-3faf06c2fdd3"/>
+    <refType typeId="67a1539a-fe6a-44ec-85d4-7b7f132affaf" valueTypeId="71c712ed-9d91-49e1-b075-af403d92f170"/>
+    <selectionType typeId="6f4e896b-c80f-4d03-899e-03a38d5c04fb" valueTypeId="e903bf10-27ba-4f06-91a7-8f333439d307"/>
+    <listType typeId="b3e720c7-4853-451b-9acd-7d5d17f825cd" valueTypeId="bcecfc1f-2d2b-4829-b9e4-0de4dcbd7e39"/>
+    <managerType typeId="ea995f89-d7b7-4bb8-b70b-c559ff6231f2" valueTypeId="393c9261-5d77-4200-a020-367bfe4f2715"/>
+  </producedTypes>
+  <name>Neto_Должность</name>
+  <synonym>
+    <key>ru</key>
+    <value>Neto должность</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Neto_Должность.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Neto_Должность.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Neto_Должность.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="e90d326b-b3d1-4f71-ac1b-7c06c4ed1f98">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>
