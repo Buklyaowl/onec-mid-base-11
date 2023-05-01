@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8d1bf6ba-b7a5-4a33-96e0-276742eb06e8">
+  <name>Neto_ДобавлениеКонтактногоЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Neto добавление контактного лица</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>
